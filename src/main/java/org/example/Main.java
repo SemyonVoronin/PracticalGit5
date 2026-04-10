@@ -13,4 +13,14 @@ class House {
         this.floors = floors;
     }
 
+    @Override
+    public String toString() {
+        String str = "дом с " + floors;
+
+        if (floors % 10 == 1 && floors % 100 != 11) {
+            return str + " этажом";
+        }
+
+        return str + " этажами";
+    }
 }
