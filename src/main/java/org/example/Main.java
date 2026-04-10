@@ -3,6 +3,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         House house = new House(15);
+        System.out.println(house);
     }
 }
 class House {
