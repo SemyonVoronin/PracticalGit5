@@ -1,9 +1,22 @@
 package org.example;
+public class Main {    
+  public static int fib(int n){
+        if (n == 0){
+            return 0;
+        }
+        if (n == 1){
+            return 1;
+        }
+        return fib(n-1) + fib(n-2);
 
-public class Main {
+    }
     public static void main(String[] args) {
         House house = new House(15);
         System.out.println(house);
+      
+        for (int i = 0; i < 10; i++) {
+              System.out.println(fib(i));
+          }
     }
 }
 class House {
@@ -24,6 +37,7 @@ class House {
             return str + " этажом";
         }
 
-        return str + " этажами";
+        return str + " этажами"; 
     }
+
 }
