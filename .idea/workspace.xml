@@ -1,4 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e28d901-1e39-4853-a046-393fedb08411" name="Changes" comment="create House object">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="476b3192c7bc05505e6d3fad549122299c4fdfc8" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SemyonVoronin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SemyonVoronin/PracticalGit5.git",
+    "accountId": "557344bd-b1cb-4110-afe6-0114c379c133"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3C8Hb0Ywro9jRBvUaF2HMohMjoy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/user/Desktop/Семён/Рут (МИИТ)/4 семестр/ИЦС/Лабораторные-отчёты/PracticalGit5/PracticalGit5/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e28d901-1e39-4853-a046-393fedb08411" name="Changes" comment="" />
+      <created>1775760347604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775760347604</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add example code">
+      <option name="closed" value="true" />
+      <created>1775813930627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775813930627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add fib function">
+      <option name="closed" value="true" />
+      <created>1775814141133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775814141133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add fib function two">
+      <option name="closed" value="true" />
+      <created>1775814172323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775814172323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add fib function final">
+      <option name="closed" value="true" />
+      <created>1775814194511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775814194511</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add fib function final main">
+      <option name="closed" value="true" />
+      <created>1775814254352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775814254352</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update README">
+      <option name="closed" value="true" />
+      <created>1775814547732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775814547732</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added House class">
+      <option name="closed" value="true" />
+      <created>1775814902932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775814902932</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added toString">
+      <option name="closed" value="true" />
+      <created>1775814945577</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775814945577</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create House object">
+      <option name="closed" value="true" />
+      <created>1775815033934</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1775815033934</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add example code" />
+    <MESSAGE value="add fib function" />
+    <MESSAGE value="add fib function two" />
+    <MESSAGE value="add fib function final" />
+    <MESSAGE value="add fib function final main" />
+    <MESSAGE value="update README" />
+    <MESSAGE value="added House class" />
+    <MESSAGE value="added toString" />
+    <MESSAGE value="create House object" />
+    <option name="LAST_COMMIT_MESSAGE" value="create House object" />
+  </component>
 </project>
